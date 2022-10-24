@@ -2,7 +2,6 @@
 #include <iomanip>
 #include <fstream>
 #include <string>
-tput
 using namespace std;
 
 //Name:Tori Thompson
