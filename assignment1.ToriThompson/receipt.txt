@@ -1,0 +1,14 @@
+---------------------------------------------
+ABC Grocery Store
+
+Items bought:
+
+Meat Beef    @ $8.80/kg                35.20
+Dairy Products                         12.00
+Miscellaneous                          17.00
+
+                                       64.20
+
+        THANK YOU!
+
+---------------------------------------------
